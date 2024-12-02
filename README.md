@@ -15,7 +15,9 @@
    git clone https://github.com/Brunno310/GeoKMZ.git
 
 ### Antes de rodar o script, instale as dependências necessárias. Navegue até o diretório do projeto e execute
-pip install -r requirements.txt
+pip3 install -r requirements.txt --break-system-packages
+
+### Atenção: O uso de --break-system-packages pode afetar o sistema. Se preferir, use um ambiente virtual.
 
 ### Para Executar o Script: Execute o script com o seguinte comando
 python GeoKMZ.py
