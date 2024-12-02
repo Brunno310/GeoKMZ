@@ -12,7 +12,7 @@
 1. **Clonar o Repositório:**
    Se você ainda não tem o repositório clonado, use o seguinte comando
 
-   git clone https://github.com/SEU-USUARIO/GeoKMZ.git
+   git clone https://github.com/Brunno310/GeoKMZ.git
 
 ### Antes de rodar o script, instale as dependências necessárias. Navegue até o diretório do projeto e execute
 pip install -r requirements.txt
